@@ -4,12 +4,12 @@ A modern reimagining of the classic 1979 **Asteroids** game. Pilot a ship throug
 ## Features
 - Classic asteroid-splitting gameplay
 - Smooth ship physics
-- Retro visuals and sound
+- Retro visuals and sound (royalty-free)
 - MPL-2.0 licensed
 
 ## Controls
 - `WASD` / `Arrow keys` – Move
-- `Space` – Fire
+- `Space` / 'LMB' – Fire
 - `Esc` – Pause
 
 ## License

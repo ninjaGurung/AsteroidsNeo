@@ -12,5 +12,5 @@ A modern reimagining of the classic 1979 **Asteroids** game. Pilot a ship throug
 - `Space` – Fire
 - `Esc` – Pause
 
-## 📄 License
+## License
 Licensed under the **Mozilla Public License 2.0**.

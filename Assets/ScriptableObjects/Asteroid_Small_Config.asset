@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 199d451f87dc36d4791fe63158dae493, type: 3}
+  m_Name: Asteroid_Small_Config
+  m_EditorClassIdentifier: Assembly-CSharp::AsteroidSO
+  AsteroidPrefab: {fileID: 9069785518359499840, guid: 48bdbf2b2a91fbe45afd03dcb102e5b6, type: 3}
+  Size: 2
+  MinSpeed: 1
+  MaxSpeed: 3
+  ScoreValue: 15
+  DamageToPlayer: 1
+  CanSplit: 0
+  SplitAsteroidType: {fileID: 0}
+  MinSplitCount: 0
+  MaxSplitCount: 0

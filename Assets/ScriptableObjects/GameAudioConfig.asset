@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099f325efae2112408a3002868a2786c, type: 3}
+  m_Name: GameAudioConfig
+  m_EditorClassIdentifier: Assembly-CSharp::AudioSO
+  MainMenuMusic: {fileID: 8300000, guid: 266279bb7060fd54c8d37b5424a9f106, type: 3}
+  GameplayMusic: {fileID: 8300000, guid: 8d48c968cf97525459603c083d100e1e, type: 3}
+  GameOverMusic: {fileID: 8300000, guid: 831fd5a3b90a0f34ea75c7d54d9aa978, type: 3}
+  VictoriousMusic: {fileID: 8300000, guid: 553ffcef2b9f49d4d9a68dd87a932e64, type: 3}
+  ShootSfx: {fileID: 8300000, guid: 40597bee4fa591c469a8f638fe01b104, type: 3}
+  ThrustSfx: {fileID: 8300000, guid: dd730ef3d16ac3f42889fbcf9b0269c2, type: 3}
+  ExplosionSfx: {fileID: 8300000, guid: 11e6debd256d1c1489eebf566204e2de, type: 3}
+  PlayerDeathJingle: {fileID: 8300000, guid: 4115de8f9c75554438a563c5f99e9531, type: 3}

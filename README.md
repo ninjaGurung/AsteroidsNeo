@@ -1,6 +1,8 @@
 # AsteroidsNeo
 A modern reimagining of the classic 1979 **Asteroids** game. Pilot a ship through space, blast asteroids, and survive as long as you can. Retro-inspired visuals, smooth controls, and modular code. The primary goal was not just to recreate the gameplay but to build it upon a professional, scalable, and maintainable software architecture using modern design patterns and best practices. Licensed under MPL-2.0.
 
+The build can be played from [THIS LINK](https://absurdlabs.io/asteroidsneo/) (Note: the URL can change in the future).
+
 ## Features
 - Classic asteroid-splitting gameplay
 - Smooth ship physics

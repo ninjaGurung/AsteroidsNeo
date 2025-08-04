@@ -52,5 +52,18 @@ The game's architecture is built on several key design patterns and principles t
 - `Space` / 'LMB' – Fire
 - `Esc` – Pause
 
+## Future Roadmap
+The current architecture provides a solid foundation for future expansion. The following features are planned to enhance the gameplay experience and broaden the game's reach.
+
+- Enemy AI: Introduce a hostile UFO with its own state-driven AI, configured via a unique EnemySO to create a dynamic threat for the player.
+- Power-ups & Advanced Combat: Implement collectible power-ups (shields, weapon boosts) and a charged heavy-attack missile system, all managed through the existing data-driven ScriptableObject and factory patterns.
+- UI/UX Polish: Enhance the user experience with more dynamic UI animations, improved visual feedback, and a dedicated settings menu.
+- Multi-Platform Support (Mobile & Console): Leverage the abstracted input system (IInputProvider) to release on new platforms. This involves creating dedicated input handlers for touch controls (iOS/Android) and gamepads (PS5/Xbox) with no changes required to the core gameplay logic.
+
+## ⚠️ Project Version
+Note: This project was developed using Unity 6 (Beta version 6000.2.0b9). For the best experience and to avoid compatibility issues, it is highly recommended to open the project with this version or a newer one.
+
+Opening the project in an older Unity version (e.g., Unity 2022.3 LTS) is not officially supported and will require manually recreating project settings and resolving potential API incompatibilities.
+
 ## License
 Licensed under the **Mozilla Public License 2.0**.
